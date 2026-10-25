@@ -1,0 +1,105 @@
+{
+  "package_name": "Hệ thống website bán hàng",
+  "bidding_entity": "ABC Wear",
+  "procurement_form": "Hồ sơ mời thầu",
+  "party_a": "ABC Wear",
+  "party_b": "Inter Solution",
+  "issue_date": "2026-02-22",
+  "submission_deadline": "2026-03-08",
+  "cut_over_date": "2026-07-01",
+  "warranty_period": "một năm",
+  "budget_ceiling": null,
+  "question_window": {
+    "start": "2026-02-22",
+    "end": "2026-03-07",
+    "contact_name": "Yamada",
+    "contact_unit": "Bộ phận Kế hoạch",
+    "contact_email": "yamada@abc.com",
+    "input_ref": "00_project_brief.json question_window"
+  },
+  "submission": {
+    "copies": 10,
+    "place": "Phòng họp A, trụ sở chính",
+    "input_ref": "00_project_brief.json proposal_submission"
+  },
+  "objectives": {
+    "impacts": "Mở rộng khách hàng qua internet và thêm kênh bán hàng mới.",
+    "outcome": "ABC Wear vận hành hệ thống website bán hàng như một kênh bán mới.",
+    "outputs": [
+      {"id": "OP-1", "name": "Đặc tả hệ thống website bán hàng", "input_ref": "00_project_brief.json objectives.outputs[0]"},
+      {"id": "OP-2", "name": "Quy trình vận hành mới", "input_ref": "00_project_brief.json objectives.outputs[1]"},
+      {"id": "OP-3", "name": "Cấu trúc cơ sở dữ liệu bán hàng", "input_ref": "00_project_brief.json objectives.outputs[2]"},
+      {"id": "OP-4", "name": "Lớp thực đơn", "input_ref": "00_project_brief.json objectives.outputs[3]"}
+    ]
+  },
+  "development_policy": [
+    "Thao tác dễ dàng với khách hàng",
+    "Dùng được mọi lúc, 24 giờ và 365 ngày",
+    "Thời gian phản hồi trong 2 giây"
+  ],
+  "system_parts": [
+    "Tìm kiếm sản phẩm",
+    "Quản trị thành viên",
+    "Đặt hàng",
+    "Cơ sở dữ liệu bán hàng"
+  ],
+  "scope_in": [
+    "Tìm kiếm sản phẩm",
+    "Quản trị thành viên",
+    "Đặt hàng",
+    "Cơ sở dữ liệu bán hàng",
+    "Phân tích hệ thống đến kiểm thử vận hành"
+  ],
+  "scope_out": [
+    "Chức năng quản trị nội bộ"
+  ],
+  "deliverables": [
+    "Đặc tả hệ thống website bán hàng",
+    "Cấu hình cơ sở dữ liệu và chức năng",
+    "Quy trình vận hành mới",
+    "Cấu trúc cơ sở dữ liệu bán hàng",
+    "Lớp thực đơn"
+  ],
+  "proposal_required_sections": [
+    "Điều kiện tiên quyết",
+    "Dự toán chi phí kèm lý do",
+    "Phạm vi công việc so với chuẩn của bên mời thầu",
+    "Sản phẩm bàn giao trong hợp đồng",
+    "Tiến độ đến ngày đưa vào vận hành",
+    "Tổ chức thực hiện",
+    "Kế hoạch họp",
+    "Vai trò và trách nhiệm",
+    "Điều kiện khác liên quan đến hợp đồng",
+    "Đề nghị đối với bên mời thầu"
+  ],
+  "activities": [
+    {"id": "ACT-1", "verb_noun": "Phân tích hệ thống", "output_id": "OP-1", "input_ref": "00_project_brief.json activity_hints[0]"},
+    {"id": "ACT-2", "verb_noun": "Xây dựng hệ thống website bán hàng", "output_id": "OP-1", "input_ref": "00_project_brief.json activity_hints[1]"},
+    {"id": "ACT-3", "verb_noun": "Chạy kiểm thử vận hành", "output_id": "OP-2", "input_ref": "00_project_brief.json activity_hints[2]"}
+  ],
+  "milestones": [
+    {"id": "MS-1", "name": "Phát hành hồ sơ mời thầu", "date": "2026-02-22", "kind": "decision", "input_ref": "00_project_brief.json milestone_hints[0]"},
+    {"id": "MS-2", "name": "Hết hạn hỏi đáp", "date": "2026-03-07", "kind": "end_of_task", "input_ref": "00_project_brief.json milestone_hints[1]"},
+    {"id": "MS-3", "name": "Nộp hồ sơ dự thầu", "date": "2026-03-08", "kind": "decision", "input_ref": "00_project_brief.json milestone_hints[2]"},
+    {"id": "MS-4", "name": "Đưa vào vận hành", "date": "2026-07-01", "kind": "end_of_phase", "input_ref": "00_project_brief.json milestone_hints[3]"}
+  ],
+  "contract_terms": [
+    "Bên B bắt đầu xây dựng hệ thống ngay sau khi hợp đồng được ký.",
+    "Bên A hoặc bên B được thay đổi đặc tả khi cần.",
+    "Khi bên B cần thuê ngoài, bên B phải xin phép bên A bằng văn bản.",
+    "Bên B bàn giao sản phẩm đúng địa điểm và ngày đã thỏa thuận.",
+    "Bên A nghiệm thu sản phẩm. Đạt nghiệm thu có nghĩa là chấp nhận.",
+    "Quyền sở hữu và bản quyền sản phẩm cùng kết quả kỹ thuật thuộc bên A.",
+    "Bên B phải được bên A cho phép trước khi để bên khác dùng các sản phẩm đó.",
+    "Lỗi logic trong sản phẩm bàn giao thuộc trách nhiệm và chi phí của bên B.",
+    "Thời hạn trách nhiệm của bên B là một năm."
+  ],
+  "stakeholders_cited": [],
+  "assumptions": [
+    {
+      "text": "Các ngày dùng năm 2026.",
+      "reason": "00_project_brief.json date_convention: RFP ghi 20XX."
+    }
+  ],
+  "input_refs_used": ["00_project_brief.json"]
+}
