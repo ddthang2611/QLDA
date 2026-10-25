@@ -256,3 +256,150 @@ Toàn bộ các mốc thời gian dưới đây là chuẩn mực duy nhất đ�
   - Tạm ứng hợp đồng: **20% giá trị hợp đồng** trong vòng 10 ngày làm việc sau khi ký hợp đồng; Bảo đảm thực hiện hợp đồng: **5% giá trị hợp đồng** tương ứng `60.000.000 VNĐ`, hiệu lực đến hết ngày `01/07/2027`.
   - Số liệu tài chính 03 năm 2023, 2024, 2025: Doanh thu thuần chưa thuế lần lượt là `12.480.000.000 VNĐ`, `15.840.000.000 VNĐ` và `18.720.000.000 VNĐ`; doanh thu bình quân đạt **15.680.000.000 VNĐ/năm**; giá trị tài sản ròng năm 2025 đạt `20.400.000.000 VNĐ`; lợi nhuận sau thuế năm 2025 đạt `2.545.920.000 VNĐ`.
   - 02 Hợp đồng tương tự đã hoàn thành: Hợp đồng số `01/2024/IT-SW` với Công ty TNHH Speedwagon Việt Nam trị giá **2.750.000.000 VNĐ** thực hiện từ `15/01/2024` đến `20/08/2024`; Hợp đồng số `02/2024/IT-SB` với Công ty TNHH SteelBall trị giá **7.800.000.000 VNĐ** thực hiện từ `01/04/2024` đến `15/01/2025`.
+
+---
+
+## PHẦN VI. THẨM ĐỊNH TỶ LỆ DỰ PHÒNG RỦI RO, QUẢN TRỊ THAY ĐỔI VÀ ĐỊNH HƯỚNG MỞ RỘNG ĐA KÊNH THEO CHỈ ĐẠO CỦA HỘI ĐỒNG QUẢN TRỊ
+
+### 1. Bối Cảnh Chiến Lược Và Quyết Định Thẩm Định Của Chủ Đầu Tư
+- Căn cứ chỉ đạo chiến lược mới nhất từ Hội đồng Quản trị Công ty Cổ phần ABC Wear, dự án xây dựng hệ thống kênh bán hàng qua Internet không dừng lại ở một trang web bán lẻ độc lập mà phải đóng vai trò là hạt nhân công nghệ trung tâm, làm bàn đạp mở rộng năng lực phân phối đa kênh sang các sàn thương mại điện tử lớn gồm Shopee và các nền tảng thương mại mạng xã hội gồm TikTok Shop và Facebook Shop.
+- Xuất phát từ định hướng chiến lược này, Tổ Chuyên gia Thẩm định và Ban Quản lý Hợp đồng ABC Wear đã tiến hành xem xét lại cơ cấu dự toán rủi ro và toàn bộ Kế hoạch Quản lý Thay đổi do Nhà thầu Nhóm 09 - 20261 đề xuất.
+- Quyết định thẩm định chính thức: Chủ đầu tư chấp thuận tạm thời tỷ lệ chi phí dành cho rủi ro và quản lý thay đổi ở mức 21,71% tổng giá trị hợp đồng trọn gói 1.200.000.000 VNĐ. Khoản kinh phí này được xác lập là nguồn lực dự trữ chiến lược của Chủ đầu tư, vừa phục vụ xử lý các rủi ro kỹ thuật trong 8 Sprint nước rút, vừa trực tiếp phục vụ các yêu cầu thay đổi nghiệp vụ để mở rộng kết nối đa kênh theo chỉ đạo của Hội đồng Quản trị mà không phát sinh thêm ngân sách doanh nghiệp.
+
+### 2. Bóc Tách Định Lượng Chi Tiết Cơ Cấu Chi Phí Rủi Ro
+- Giá trị hợp đồng trọn gói sau thuế: 1.200.000.000 VNĐ.
+- Chi phí kỹ thuật trực tiếp sau thuế: 939.510.000 VNĐ, tương ứng 854.100.000 VNĐ trước thuế, bao gồm chi phí 3.200 giờ công của 12 nhân sự chủ chốt và chi phí hạ tầng công cụ đám mây thử nghiệm.
+- Quỹ dự phòng rủi ro kỹ thuật và quản lý thay đổi sau thuế: 260.490.000 VNĐ, tương ứng 236.809.091 VNĐ trước thuế.
+- Tỷ lệ dự phòng rủi ro trên tổng giá trị hợp đồng trọn gói: 21,71%.
+- Tỷ lệ dự phòng rủi ro trên chi phí phát triển kỹ thuật trực tiếp: 27,73%.
+- Bảng lượng hóa chi tiết mức phân bổ chi phí ứng phó 12 rủi ro kỹ thuật và vận hành:
+  - Rủi ro R-003: Nhân sự chủ chốt bị phân tán thời gian — Dự toán 36.000.000 VNĐ, chiếm tỷ lệ 3,00% giá thầu.
+  - Rủi ro R-006: Lỗi tích hợp kỹ thuật cổng thanh toán trực tuyến — Dự toán 32.000.000 VNĐ, chiếm tỷ lệ 2,67% giá thầu.
+  - Rủi ro R-001: Khách hàng chậm bàn giao đặc tả kết nối hệ thống Main System — Dự toán 28.000.000 VNĐ, chiếm tỷ lệ 2,33% giá thầu.
+  - Rủi ro R-002: Kiểm thử tải 5.000 người dùng đồng thời không đạt chỉ số P95 dưới 2 giây — Dự toán 25.000.000 VNĐ, chiếm tỷ lệ 2,08% giá thầu.
+  - Rủi ro R-007: Sai lệch số liệu tồn kho chu kỳ 15 phút giữa website và Main System — Dự toán 24.000.000 VNĐ, chiếm tỷ lệ 2,00% giá thầu.
+  - Rủi ro R-005: Khách hàng thay đổi yêu cầu nghiệp vụ hoặc chậm phê duyệt hồ sơ — Dự toán 22.000.000 VNĐ, chiếm tỷ lệ 1,83% giá thầu.
+  - Rủi ro R-008: Lỗi tích hợp hệ thống nghiêm trọng trong quá trình kiểm thử SIT — Dự toán 20.000.000 VNĐ, chiếm tỷ lệ 1,67% giá thầu.
+  - Rủi ro R-004: Lập trình viên mới chưa quen chuẩn kiến trúc và quy trình CI/CD — Dự toán 18.000.000 VNĐ, chiếm tỷ lệ 1,50% giá thầu.
+  - Rủi ro R-012: Báo cáo đối soát doanh thu và đơn hàng cuối ngày bị lệch — Dự toán 16.000.000 VNĐ, chiếm tỷ lệ 1,33% giá thầu.
+  - Rủi ro R-011: Sự cố đường truyền mạng, máy chủ VPN hoặc cấu hình hạ tầng — Dự toán 15.000.000 VNĐ, chiếm tỷ lệ 1,25% giá thầu.
+  - Rủi ro R-009: Nhân sự nghiệp vụ tham gia kiểm thử UAT không đúng kế hoạch — Dự toán 14.490.000 VNĐ, chiếm tỷ lệ 1,21% giá thầu.
+  - Rủi ro R-010: Sai lệch cấu hình môi trường máy chủ Production khi chuyển đổi Cut-over — Dự toán 10.000.000 VNĐ, chiếm tỷ lệ 0,83% giá thầu.
+  - Tổng cộng 12 rủi ro: Đạt đúng 260.490.000 VNĐ, tương ứng 100% quỹ dự phòng rủi ro sau thuế.
+
+### 3. Căn Cứ Chấp Thuận Tỷ Lệ Dự Phòng Rủi Ro 21,71%
+- Nhận định từ phía chuyên gia thẩm định: Mức dự phòng 21,71% cao hơn mặt bằng chung 10% đến 15% của ngành phần mềm. Tuy nhiên, tỷ lệ này được đánh giá là hoàn toàn hợp lý, khả thi và đem lại lợi thế chiến lược vượt trội cho ABC Wear vì 03 lý do căn bản sau:
+  1. Yêu cầu phi chức năng cực hạn và tiến độ nén chặt: Hệ thống phục vụ toàn quốc với cam kết độ sẵn sàng Uptime 99,9% liên tục 24/7/365, tốc độ phản hồi trang dưới 2 giây với tải đỉnh 5.000 người dùng đồng thời, triển khai gấp rút trong đúng 15,5 tuần để kịp ngày vận hành chính thức 01 tháng 07 năm 2026.
+  2. Sự sẵn sàng cho chỉ đạo mới của Hội đồng Quản trị về phân phối đa kênh:
+     - Để mở rộng ra Shopee, TikTok Shop và Facebook Shop, kiến trúc hệ thống Web Site Selling System phải được xây dựng theo mô hình kiến trúc mở hướng dịch vụ và ưu tiên giao tiếp API, cơ sở dữ liệu Selling DB phải có cấu trúc mở rộng danh mục và tồn kho đa kênh.
+     - Khoản quỹ dự phòng 260.490.000 VNĐ cho phép Bên A chủ động yêu cầu Nhà thầu nâng cấp các cổng giao tiếp API Gateway, chuẩn hóa cấu trúc dữ liệu sản phẩm tương thích với chuẩn kết nối của Shopee Open Platform, TikTok Shop Open API và Facebook Graph API mà không cần thực hiện thủ tục xin bổ sung vốn đầu tư phức tạp.
+  3. Cơ chế giá trọn gói cố định bảo vệ ngân sách: Tổng chi phí được khóa trần ở mức 1.200.000.000 VNĐ đã bao gồm toàn bộ thuế, phí và dự phòng. Chủ đầu tư nắm quyền kiểm soát việc chi tiêu khoản tiền này thông qua các quyết định phê duyệt thay đổi.
+
+### 4. Quy Trình Kiểm Soát Thay Đổi Và Cơ Chế Thích Ứng Tiến Độ
+- Cơ cấu Hội đồng Kiểm soát Thay đổi:
+  - Chủ tịch Hội đồng: Đại diện Lãnh đạo Công ty Cổ phần ABC Wear nắm quyền quyết định cao nhất về việc chấp thuận, điều chỉnh hoặc từ chối mọi yêu cầu thay đổi.
+  - Thư ký Hội đồng: Quản lý dự án Nhà thầu có trách nhiệm tiếp nhận, phân tích tác động và trình báo cáo kỹ thuật.
+  - Thành viên tham mưu: Trưởng phòng Kế hoạch Yamada, Product Owner và Kiến trúc sư hệ thống.
+- Phân định ranh giới giữa Lỗi phần mềm và Yêu cầu thay đổi:
+  - Lỗi phần mềm: Mọi sai sót logic, khiếm khuyết hiển thị hoặc sự cố phát sinh so với tài liệu đặc tả SRS đã duyệt bắt buộc Nhà thầu phải sửa chữa miễn phí 100% bằng chi phí độc lập của Nhà thầu theo đúng cam kết bảo hành và thời gian xử lý sự cố chuẩn.
+  - Yêu cầu thay đổi: Chỉ áp dụng khi có đề xuất bổ sung chức năng mới, thay đổi luồng nghiệp vụ ngoài phạm vi ban đầu hoặc mở rộng kết nối với các đối tác bên thứ ba.
+- Phân loại thẩm quyền quyết định 3 cấp độ:
+  - Cấp độ 1: Thay đổi nhỏ không làm thay đổi chi phí và tiến độ Sprint — Do Quản lý dự án Nhà thầu và Product Owner ABC Wear phối hợp xử lý trực tiếp.
+  - Cấp độ 2: Thay đổi trung bình dưới 40 giờ công và chi phí dưới 50.000.000 VNĐ, không làm dịch chuyển mốc Cut-over — Do Hội đồng Kiểm soát Thay đổi thẩm định và phê chuẩn.
+  - Cấp độ 3: Thay đổi lớn vượt 40 giờ công, thay đổi kiến trúc cốt lõi hoặc ảnh hưởng đến mốc vận hành chính thức — Bắt buộc phải trình Tổng Giám đốc ABC Wear phê duyệt và ký phụ lục hợp đồng kinh tế.
+- Bộ 6 chiến lược thích ứng linh hoạt bảo vệ mốc vận hành chính thức ngày 01 tháng 07 năm 2026:
+  - Chiến lược 1 Hoán đổi phạm vi: Đổi tính năng có mức ưu tiên thấp để lấy tính năng mới cấp thiết, giữ nguyên tổng nỗ lực và thời hạn bàn giao.
+  - Chiến lược 2 Nén tiến độ: Tăng cường nhân sự làm thêm giờ và bổ sung lập trình viên chuyên trách, chi trả từ nguồn kinh phí Quỹ dự phòng 260.490.000 VNĐ khi có chỉ đạo từ Chủ đầu tư.
+  - Chiến lược 3 Triển khai gối đầu: Chạy song song khâu phát triển tính năng mới với khâu kiểm thử tích hợp các module đã hoàn thiện.
+  - Chiến lược 4 Phân kỳ phát hành lát cắt mỏng tối thiểu: Tập trung hoàn thiện toàn bộ luồng bán hàng cốt lõi để đưa vào vận hành khai thác thương mại đúng ngày 01 tháng 07 năm 2026; các tính năng nâng cao hoặc kết nối mở rộng bàn giao bổ sung trong giai đoạn vận hành tăng cường.
+  - Chiến lược 5 Khai thác vùng đệm tiến độ: Tận dụng tối đa 10 ngày đệm kỹ thuật từ ngày 21 tháng 06 đến ngày 30 tháng 06 năm 2026 để xử lý dứt điểm các phát sinh trong kiểm thử chấp nhận người dùng UAT.
+  - Chiến lược 6 Ký phụ lục hợp đồng: Áp dụng khi quy mô thay đổi vượt khung năng lực dự phòng cho phép.
+- Quản trị chuyển đổi 3 trụ cột Con người, Quy trình, Công nghệ kết hợp mô hình ADKAR:
+  - Tập huấn nghiệp vụ chuyên sâu cho nhân viên chuỗi 25 cửa hàng bán lẻ và bộ phận chăm sóc khách hàng để thích nghi với mô hình xử lý đơn hàng đa kênh.
+  - Chuẩn hóa quy trình vận hành và kiểm thử tự động, bảo đảm mọi thay đổi mã nguồn đều có mã định danh yêu cầu thay đổi truy vết được trên hệ thống quản lý phiên bản Git.
+
+### 5. Nhận Xét Đánh Giá Và Đề Xuất Chỉ Đạo Thực Hiện Cụ Thể
+- Nhận xét tổng thể của Tổ Thẩm định: Kế hoạch Quản lý Rủi ro và Kế hoạch Quản lý Thay đổi của Nhà thầu đạt chất lượng xuất sắc, logic khoa học và thể hiện năng lực quản trị dự án chuyên nghiệp. Hồ sơ cung cấp đầy đủ công cụ pháp lý, chỉ số định lượng và phương án kỹ thuật để Chủ đầu tư kiểm soát chặt chẽ tiến độ, chất lượng và ngân sách gói thầu.
+- Đề xuất 4 nội dung chỉ đạo thực hiện bắt buộc:
+  1. Chỉ đạo kiểm soát quỹ dự phòng: Giao Trưởng phòng Kế hoạch Yamada và Ban Quản lý Hợp đồng thiết lập Sổ theo dõi yêu cầu thay đổi và đối soát định kỳ thứ Sáu hàng tuần. Toàn bộ các khoản chi từ Quỹ dự phòng 260.490.000 VNĐ chỉ được giải ngân khi có Phiếu yêu cầu thay đổi được phê duyệt đúng thẩm quyền và có biên bản nghiệm thu sản phẩm chạy thực tế tương ứng.
+  2. Chỉ đạo định hướng kiến trúc mở rộng đa kênh Shopee, Facebook, TikTok: Yêu cầu Kiến trúc sư hệ thống và Chuyên viên phân tích nghiệp vụ phía Nhà thầu ngay trong giai đoạn thiết kế cơ sở dữ liệu Selling DB tại Sprint 3 phải thiết kế mô hình dữ liệu sản phẩm, danh mục, tồn kho và đơn hàng theo chuẩn mở rộng đa kênh Omnichannel; xây dựng cổng API Gateway có khả năng tiếp nhận và điều phối webhook từ Shopee, TikTok Shop và Facebook Shop. Nguồn lực kỹ thuật thực hiện việc chuẩn bị kiến trúc mở này được tính toán trong phạm vi nỗ lực của Sprint 2, Sprint 3 và chi phí dự phòng rủi ro đã bố trí.
+  3. Kỷ luật áp dụng chiến lược nén tiến độ: Nhà thầu chỉ được phép trích kinh phí từ Quỹ dự phòng khi việc nén tiến độ xuất phát từ yêu cầu thay đổi mới của Chủ đầu tư ABC Wear. Trường hợp Nhà thầu phải tăng ca do năng suất nội bộ kém hoặc chậm trễ kỹ thuật thì Nhà thầu phải tự chịu toàn bộ chi phí phát sinh.
+  4. Bảo vệ mốc tiến độ chốt chặn: Hai bên nghiêm túc tuân thủ mốc vận hành chính thức ngày 01 tháng 07 năm 2026. Trường hợp phát sinh gia hạn hợp pháp do chậm trễ hạ tầng kỹ thuật từ phía Bên A, tổng thời gian gia hạn tối đa không được vượt quá 03 tuần, tức thời hạn chốt chặn cuối cùng là ngày 22 tháng 07 năm 2026.
+
+### 6. Hồ Sơ Yêu Cầu Thay Đổi CR-2026-004 Ngày 10 Tháng 04 Năm 2026: Làm Rõ Yêu Cầu Tích Hợp Đa Kênh Shopee, TikTok Shop, Facebook Shop Và Cơ Chế Hỗ Trợ Nhà Thầu Thực Thi
+
+#### 6.1 Bối Cảnh Tiếp Nhận Yêu Cầu Ngày 10 Tháng 04 Năm 2026
+- Thời điểm phát hành: Ngày 10 tháng 04 năm 2026, đúng tại mốc hoàn thành Sprint 2 và phiên sơ kết nghiệm thu Mốc M1.
+- Căn cứ pháp lý: Nghị quyết định hướng mở rộng kinh doanh trực tuyến số 10-04/2026/NQ-HĐQT của Hội đồng Quản trị Công ty Cổ phần ABC Wear và Phiếu yêu cầu thay đổi số CR-2026-004 do Trưởng phòng Kế hoạch Yamada ký trình Hội đồng Kiểm soát Thay đổi CCB.
+- Đơn vị tiếp nhận và chủ trì thực thi: Quản lý dự án PM, Kiến trúc sư hệ thống SA và Chuyên viên phân tích nghiệp vụ BA phía Nhà thầu Nhóm 09 - 20261.
+- Ý nghĩa thời điểm: Ngày 10 tháng 04 năm 2026 là thời điểm vàng trước khi khởi động Sprint 3 vào ngày 13 tháng 04 năm 2026. Việc tiếp nhận yêu cầu thay đổi tại thời điểm này giúp Nhà thầu nhúng trực tiếp cấu trúc dữ liệu đa kênh vào cơ sở dữ liệu Selling DB và thiết kế cổng API Gateway ngay từ đầu, tiết kiệm tối đa chi phí và loại trừ hoàn toàn nguy cơ phải đập bỏ mã nguồn để làm lại.
+
+#### 6.2 Làm Rõ 04 Nhóm Yêu Cầu Tích Hợp Kỹ Thuật Đa Kênh
+Nhằm cụ thể hóa mục tiêu kết nối hệ thống Web Site Selling System với các sàn thương mại điện tử Shopee và các mạng xã hội TikTok Shop, Facebook Shop, Chủ đầu tư làm rõ 04 nhóm yêu cầu kỹ thuật tích hợp bắt buộc sau:
+
+1. Kiến trúc tổng thể và cổng kết nối API Gateway:
+   - Mô hình kiến trúc: Áp dụng kiến trúc mở hướng dịch vụ Headless eCommerce và ưu tiên giao tiếp API-First. Hệ thống Web Site Selling System đóng vai trò là trạm điều phối trung tâm hai chiều giữa hệ thống Main System của ABC Wear với website bán hàng và các nền tảng bán lẻ bên ngoài.
+   - Xây dựng các module kết nối chuyên biệt Omnichannel Connector: Nhà thầu thiết kế các adapter độc lập tương ứng với Shopee Open Platform, TikTok Shop Open API và Facebook Graph API. Các module này hỗ trợ chuẩn xác thực bảo mật OAuth 2.0, tự động làm mới mã truy cập Token và cơ chế kiểm soát tần suất gửi yêu cầu Rate Limiting để chống việc bị các sàn khóa cổng kết nối.
+
+2. Đồng bộ danh mục sản phẩm, biến thể thời trang và chính sách giá:
+   - Mô hình dữ liệu sản phẩm chuẩn hóa: Cấu trúc cơ sở dữ liệu Selling DB phải thiết kế hỗ trợ linh hoạt các thuộc tính thời trang gồm mã phân loại cha, các mã phân loại con theo màu sắc, kích cỡ, bảng thông số kích cỡ, đường dẫn ảnh nén WebP và mô tả chuẩn SEO.
+   - Cơ chế ánh xạ danh mục Category Mapping: Xây dựng bảng ánh xạ danh mục để chuyển đổi tương thích giữa cây danh mục sản phẩm của ABC Wear với danh mục hàng hóa ngành thời trang trên Shopee, cây ngành hàng của TikTok Shop và bộ danh mục sản phẩm của Facebook Shop.
+   - Chính sách giá linh hoạt theo kênh bán: Cơ sở dữ liệu hỗ trợ trường giá niêm yết gốc đồng bộ từ Main System và các trường giá bán chuyên biệt theo từng kênh, cho phép Khối Kinh doanh áp dụng các chương trình ưu đãi riêng biệt trên sàn hoặc kênh mạng xã hội mà không làm sai lệch giá chuẩn trên website.
+
+3. Đồng bộ tồn kho thời gian thực và kiểm soát chống bán vượt tồn:
+   - Cơ chế phân bổ hạn mức tồn kho an toàn Safety Stock: Hệ thống hỗ trợ thiết lập tỷ lệ phân bổ tồn kho hoặc giữ lại số lượng dự phòng an toàn cho từng kênh bán, ngăn chặn triệt để nguy cơ bán vượt quá tồn kho thực tế khi nhiều kênh cùng phát sinh đơn hàng đồng thời.
+   - Đồng bộ tồn kho chu kỳ ngắn: Duy trì luồng cập nhật tồn kho từ Main System sang Selling DB theo chu kỳ tối đa 15 phút một lần; đồng thời khi phát sinh giao dịch bán thành công tại bất kỳ kênh nào, cổng API Gateway phải tự động kích hoạt lệnh trừ tồn kho khả dụng và phát tín hiệu cập nhật sang Shopee, TikTok Shop trong thời gian không quá 03 phút.
+
+4. Thu gom đơn hàng tập trung và đồng bộ trạng thái giao vận:
+   - Đầu mối tiếp nhận đơn hàng Webhook Receiver: Xây dựng dịch vụ tiếp nhận thông báo đơn hàng mới từ Shopee Webhook, TikTok Shop Webhook và Facebook Graph API theo thời gian thực.
+   - Khóa chống trùng lặp đơn hàng Idempotency Key: Mọi đơn hàng từ các sàn đều được kiểm tra mã đơn hàng và khóa chống trùng lặp trước khi ghi nhận vào Selling DB, sau đó chuyển tiếp vào hàng đợi RabbitMQ để đẩy sang Main System xử lý điều vận kho bãi.
+   - Đồng bộ trạng thái giao nhận hai chiều: Tiếp nhận mã vận đơn và trạng thái đóng gói, bàn giao, vận chuyển từ hệ thống điều vận của Main System hoặc từ các đơn vị giao vận tích hợp của sàn như Shopee Xpress, SPX, TikTok Shipping để cập nhật đồng bộ cho khách hàng theo dõi hành trình.
+
+#### 6.3 Năm Biện Pháp Hỗ Trợ Cụ Thể Từ Phía Chủ Đầu Tư ABC Wear
+Để tạo điều kiện tối đa cho Nhà thầu thực thi yêu cầu thay đổi đạt chất lượng cao mà không làm phá vỡ tiến độ đường găng của dự án, Bên A cam kết triển khai 05 hành động hỗ trợ cụ thể:
+
+1. Bàn giao tài khoản doanh nghiệp và môi trường thử nghiệm Sandbox:
+   - Bên A hoàn tất đăng ký tài khoản doanh nghiệp chính thức trên Shopee Open Platform, TikTok Shop Partner Center và Meta for Developers trước ngày 17 tháng 04 năm 2026.
+   - Bàn giao đầy đủ mã định danh App ID, khóa bảo mật App Secret, mã xác thực API Token và cấp quyền truy cập môi trường thử nghiệm Sandbox cho đội ngũ kỹ thuật Nhà thầu trước ngày 20 tháng 04 năm 2026.
+
+2. Cung cấp bảng quy chuẩn dữ liệu thời trang và ma trận ánh xạ:
+   - Bộ phận Bán lẻ và Khối Kinh doanh ABC Wear hoàn thành việc chuẩn hóa danh mục, bảng kích cỡ chuẩn và cung cấp bộ dữ liệu mẫu gồm 500 mặt hàng thời trang trọng điểm kèm quy tắc ánh xạ danh mục sang các sàn trước ngày 22 tháng 04 năm 2026.
+
+3. Nâng cấp luồng giao tiếp API phía hệ thống Main System:
+   - Đội ngũ kỹ thuật Main System của Bên A hoàn tất việc bổ sung trường dữ liệu nhận diện nguồn đơn hàng gồm Website, Shopee, TikTok, Facebook trong bản tin API tiếp nhận đơn hàng trước ngày 24 tháng 04 năm 2026 để bảo đảm việc phân loại và đối soát doanh thu đa kênh chuẩn xác.
+
+4. Bảo đảm nguyên tắc quản lý hợp đồng trọn gói và tuân thủ Bộ luật Lao động:
+   - Hợp đồng cung cấp dịch vụ phi tư vấn số 09/2026/HĐ-DVPTRV-ABCWEAR là hợp đồng trọn gói, giá hợp đồng không thay đổi và giữ nguyên vẹn 100% là 1.200.000.000 VNĐ sau thuế.
+   - Phụ lục hợp đồng số 01 ký ngày 15 tháng 04 năm 2026 chỉ thuần túy điều chỉnh thời hạn bàn giao sản phẩm và các mốc tiến độ liên quan, tuyệt đối không đưa các nội dung về chi phí làm thêm giờ OT hay chi phí xử lý rủi ro vào phụ lục hợp đồng để tuân thủ nghiêm ngặt Bộ luật Lao động số 45/2019/QH14. Mọi chế độ làm việc ngoài giờ, phân bổ nhân sự và an toàn lao động thuộc quyền tự chủ và trách nhiệm nội bộ của Nhà thầu. Bên A không thanh toán thêm bất kỳ chi phí phát sinh nào ngoài giá hợp đồng trọn gói.
+
+5. Tái cấu trúc lộ trình thực thi sang 17,5 tuần gồm 9 Sprint Agile Scrum:
+   - Từ Sprint 1 đến Sprint 6: Giữ nguyên tiến độ ban đầu nhằm bảo đảm hoàn thành toàn bộ tính năng cốt lõi của website, thiết kế Selling DB đa kênh, API Gateway và các Adapter kết nối.
+   - Sprint 7 từ ngày 08 tháng 06 đến ngày 19 tháng 06 năm 2026: Nghiệm thu bộ nhớ đệm Redis, CDN WebP và kiểm thử tích hợp nội bộ.
+   - Sprint 8 từ ngày 22 tháng 06 đến ngày 03 tháng 07 năm 2026: Đo kiểm tải P95 dưới 2 giây với 5.000 người dùng đồng thời và kiểm thử tải Webhook từ 3 sàn.
+   - Sprint 9 từ ngày 06 tháng 07 đến ngày 14 tháng 07 năm 2026: Bổ sung 02 tuần gia hạn theo Phụ lục hợp đồng số 01 để tổ chức nghiệm thu UAT toàn diện trên dữ liệu thật, kết nối trực tiếp môi trường Sandbox các sàn và diễn tập Cut-over.
+   - Ngày 15 tháng 07 năm 2026: Vận hành chính thức Cut-over và khai trương thương mại đồng loạt toàn bộ hệ thống bán hàng website và kết nối đa kênh.
+
+#### 6.4 Phụ Lục Hợp Đồng Số 01 Ngày 15 Tháng 04 Năm 2026: Điều Chỉnh Tiến Độ Go-live Thêm 02 Tuần
+- Quyết định chính thức của Hội đồng Quản trị: Nhằm đáp ứng toàn diện yêu cầu mở rộng kiến trúc hệ thống phục vụ kết nối đa kênh với Shopee, TikTok Shop và Facebook Shop mà không làm ảnh hưởng đến chất lượng kiểm thử chịu tải và an toàn thông tin, Hội đồng Quản trị và Ban Kiểm soát Thay đổi CCB Công ty Cổ phần ABC Wear chính thức phê duyệt lùi thời hạn vận hành thương mại Go-live thêm 02 tuần.
+- Ký kết văn bản pháp lý: Ngày 15 tháng 04 năm 2026, hai bên ký kết Phụ lục hợp đồng số 01 kèm theo Hợp đồng cung cấp dịch vụ phi tư vấn số 09/2026/HĐ-DVPTRV-ABCWEAR.
+- Bảng tổng hợp các mốc tiến độ điều chỉnh chính thức:
+  - Mốc vận hành chính thức Cut-over và Go-live website: Chuyển từ ngày 01 tháng 07 năm 2026 sang ngày 15 tháng 07 năm 2026.
+  - Mốc hoàn thành kiểm thử UAT và đóng gói Production tại Sprint 8: Kéo dài đến hết ngày 14 tháng 07 năm 2026.
+  - Giai đoạn trực hỗ trợ vận hành tăng cường Hypercare 01 tháng: Từ ngày 15 tháng 07 năm 2026 đến ngày 15 tháng 08 năm 2026.
+  - Thời hạn bảo hành kỹ thuật toàn diện 12 tháng: Từ ngày 15 tháng 07 năm 2026 đến ngày 15 tháng 07 năm 2027.
+  - Tiến độ giải ngân Đợt 3 thanh toán 25% giá trị hợp đồng: Thực hiện trong vòng 10 ngày làm việc sau mốc vận hành chính thức ngày 15 tháng 07 năm 2026.
+  - Tiến độ giải ngân Đợt 4 thanh toán 10% giá trị hợp đồng: Thực hiện trong vòng 10 ngày làm việc sau ngày 15 tháng 08 năm 2026.
+  - Giải ngân phần giữ lại bảo hành 10% Đợt 5: Thực hiện trong vòng 10 ngày làm việc sau ngày 15 tháng 07 năm 2027, hoặc giải ngân ngay sau ngày 15 tháng 07 năm 2026 nếu nộp thư bảo lãnh bảo hành hợp lệ.
+
+#### 6.5 Hướng Dẫn Thực Thi Và Kỷ Luật Tiến Độ Dành Cho Đơn Vị Nhà Thầu
+Chủ đầu tư ban hành 04 chỉ thị bắt buộc để Nhà thầu tổ chức triển khai hiệu quả khoảng thời gian gia hạn 02 tuần:
+1. Phân bổ khoảng thời gian 02 tuần bổ sung vào trọng tâm kỹ thuật:
+   - Toàn bộ khoảng thời gian 14 ngày bổ sung được phân bổ tập trung vào khâu hoàn thiện kiểm thử tích hợp hệ thống SIT, đo kiểm tải thực tế 5.000 người dùng đồng thời đạt chỉ số P95 dưới 2 giây và diễn tập kết nối dữ liệu thử nghiệm Sandbox với Shopee, TikTok Shop.
+   - Tuyệt đối không sử dụng thời gian gia hạn này để trì hoãn các mốc phát triển tính năng cốt lõi của Sprint 3, Sprint 4, Sprint 5 và Sprint 6.
+2. Cam kết mốc chốt chặn cuối cùng:
+   - Mốc ngày 15 tháng 07 năm 2026 là hạn chốt chặn cuối cùng của dự án. Mọi sự chậm trễ sau ngày 15 tháng 07 năm 2026 do lỗi chủ quan của Nhà thầu sẽ bị kích hoạt ngay chế tài phạt 1% giá trị khối lượng chậm trễ cho mỗi tuần theo quy định tại Điều 10 của hợp đồng.
+3. Chế độ giao ban và kiểm soát đường găng:
+   - Duy trì nghiêm ngặt các phiên họp giao ban kỹ thuật 15 phút đầu giờ và báo cáo tiến độ tuần vào chiều thứ Sáu.
+   - Nhà thầu phải cập nhật đường găng tiến độ và báo cáo trạng thái triển khai các module mở rộng đa kênh trong từng biên bản họp Sprint Review, bảo đảm hoàn thành toàn bộ khối lượng công việc đúng thời hạn bàn giao ngày 15 tháng 07 năm 2026.
+4. Trách nhiệm phối hợp diễn tập Cut-over:
+   - Hai bên tổ chức 02 đợt diễn tập chuyển đổi dữ liệu và chuyển đổi hệ thống vào ngày 05 tháng 07 năm 2026 và ngày 11 tháng 07 năm 2026 trên môi trường Production do Bên A bàn giao, bảo đảm ngày 15 tháng 07 năm 2026 hệ thống vận hành trơn tru không phát sinh sự cố gián đoạn.

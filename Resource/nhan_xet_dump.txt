@@ -1,0 +1,741 @@
+
+--- PAGE 1 ---
+Timestamp Email Address Nhận xét cho nhóm Định danh Nhóm cung cấp nhận xét
+Phân loại nội dung câu 
+hỏi / nhận xét / đề xuất 
+chỉnh sửa.
+Vai trò Link đến file nhận xét Nội dung câu hỏi Nội dung đề xuất chỉnh sửa Nội dung nhận xét - Ưu điểm Nội dung nhận xét - Nhược điểm Phân công Dòng trong file gốc Status
+18/10/2026 10:28:46 dungnd.work@gmail.com PM_26I_09 PM_26I_04 20261246M Nguyễn Đình Dũng 04 Câu 1: Planning Người nghe nhóm bạn trình bày
+Tại sao WBS không hề 
+được chia theo sprint như 
+trong yêu cầu phát triển 
+phần mềm nhanh của 
+BTL?
+WBS cần chia theo sprint, 
+theo mô hình phát triển 
+phần mềm nhanh
+Báo cáo tổng kết dự án 
+phân tích được sự khác 
+nhau giữa baseline với 
+thực tế, đánh giá được 
+chất lượng kỹ thuật đạt 
+hay không đạt
+WBS đang không làm 
+đúng theo yêu cầu dự án Tân 239 Done
+18/10/2026 10:58:53 Du.VX252731M@sis.hust.edu.vn PM_26I_09 PM_26I_08 20252731M Vũ Xuân Dự 08 Câu 2: Risk and Change Người nghe nhóm bạn trình bày
+Phần Change 
+management. Cho mình 
+hỏi về trường hợp nếu có 
+mobile app thì kế hoạch 
+như nào? Không có 
+mobile app thì thế hoạch 
+như nào?
+Tân 333 Done
+18/10/2026 11:06:54 Huy.DN261112@sis.hust.edu.vn PM_26I_09 PM_26I_12 20261112M Đặng Ngọc Huy 12 Câu 1: Planning Người nghe nhóm bạn trình bày
+Nhóm căn cứ tài liệu nào 
+để xác định quỹ dự phòng 
+rủi ro, và việc sử dụng 
+quỹ cho CR-03 đã được 
+CCB phê duyệt cụ thể ra 
+sao?
+Số liệu baseline về dự 
+phòng rủi ro chưa nhất 
+quán: Master Plan ghi 
+khoảng 177,146 triệu 
+đồng (20%), trong khi phụ 
+lục lại ghi 89,76 triệu 
+đồng (10%)
+Tân 342 Done
+18/10/2026 11:06:54 Minh.ND261253M@sis.hust.edu.vn PM_26I_09 PM_26I_10 20261253M Nguyễn Đức Minh 10 Câu 1: Planning Người nghe nhóm bạn trình bày
+Với phần chi tiết ước 
+lượng để xử lý rủi ro, có 
+mốc cho cả dự án, thì 
+không cần thêm những 
+phần chi tiết phía dưới, 
+hoặc những phần chi tiết 
+đó sẽ cộng lại bằng tổng 
+của cả dự án
+Tân 343 Done
+18/10/2026 11:07:04 Nam.TQ261276M@sis.hust.edu.vn PM_26I_09 PM_26I_07 20261276M Tô Quang Nam 07 Câu 2: Risk and Change Người nghe nhóm bạn trình bày
+Đơn giá trước VAT của 
+nhân sự được tính toán 
+dựa theo công thức hay 
+giá thành như nào ? file 
+WBS không có thời gian 
+mỗi chức năng triển khai 
+trong bao lâu ?
+Bổ sung thêm dữ liệu để 
+tính toán đơn giá lương 
+của nhân viên, bổ sung 
+thời gian triển khai của 
+mỗi module trong WBS
+Tân 345 Done
+18/10/2026 11:07:12 duong.ta290601@gmail.com PM_26I_09 PM_26I_06 20261245M Trần Ánh Dương 06 Câu 2: Risk and Change Người nghe nhóm bạn trình bày Đánh gía mức ưu tiên rủi ro như thế nào?
+Cần đánh giá mức độ và 
+phương án xử lý rủi ro, 
+cân đối lại chi phí xử lý rủi 
+ro.
+Tân 346 Done
+18/10/2026 11:07:23 Lam.NT251061M@sis.hust.edu.vn PM_26I_09 PM_26I_06 20251061M Nguyễn Tiến Lâm 06 Câu 1: Planning Người nghe nhóm bạn trình bày
+Ngân sách cho mục quản 
+lý rủi ro đang nhiều hơn 
+so với thực tế, cần 
+estimate lại cho hợp lý 
+hơn.
+Tân 347 Done
+18/10/2026 11:07:30 truonglocnguyenkhanh@gmail.com PM_26I_09 PM_26I_03 20252124M Nguyễn Khánh Trường Lộc 03 Câu 3: Execution and Closing Người nghe nhóm bạn trình bày
+Phần đề xuất kỹ thuật ghi 
+tiến độ là 12 tuần, nhưng 
+bảng giá lại ghi làm từ 
+22/06 đến 30/10/2026, 
+tức khoảng 19 tuần. Vậy 
+nhóm làm trong bao lâu?
+Chưa bổ sung tài liệu 
+phần mobile. Tân 348 Done
+18/10/2026 11:07:46 doquanghung204@gmail.com PM_26I_09 PM_26I_03 20261275M Đỗ Quang Hùng 03 Câu 2: Risk and Change Người nghe nhóm bạn trình bày
+Cho mình hỏi về thẩm 
+quyền phê duyệt nếu PM 
+và Product Owner bất 
+đồng về một quyết định 
+về ngân sách thì ai sẽ là 
+người được ưu tiên hơn.
+Bổ sung quy trình chuyển 
+cấp khi PM và Product 
+Owner bất đồng, cơ chế 
+uy quyền rõ ràng khi bị 
+trong trường hợp khẩn 
+cấp.
+Chưa chưa nêu cụ thể 
+cách xử lý khi PM và 
+Product Owner không 
+thống nhất.
+Tân 349 Done
+18/10/2026 11:08:03 hieu.pt18699@gmail.com PM_26I_09 PM_26I_03 20261282M Phạm Trung Hiếu 03 Câu 2: Risk and Change Người nghe nhóm bạn trình bày Quản lý rủi ro cần quy trình rõ ràng hơn Tân 350 Done
+18/10/2026 11:08:04 kyanhnd2001@gmail.com PM_26I_09 PM_26I_06 20242179M Nguyễn Dương Kỳ Anh 06 Câu 2: Risk and Change Người nghe nhóm bạn trình bày
+Tại phân công trách 
+nhiệm đang giao cho PM 
+có quyền phê duyệt tất cả 
+các thay đổi như vậy có 
+hợp lý không ?
+Tân 351 Done
+18/10/2026 11:08:04 trung.td20261117m@sis.hust.edu.vn PM_26I_09 PM_26I_10 20261117M Tạ Đức Trung 10 Câu 1: Planning Người nghe nhóm bạn trình bày Các phần sau quá trình dev cần rõ ràng hơn Thắng 352 Done
+18/10/2026 11:08:09 lien134206@gmail.com PM_26I_09 PM_26I_02 20252130M Nguyễn Thị Phương Liên 02 Câu 2: Risk and Change Người nghe nhóm bạn trình bày Chưa có quản lí thay đổi khi chuyển từ web sang mobile app Cần xem lại chi phí xử lý rùi ro sao cho tỉ lệ chiếm kh quá lớn Thắng 353 Done
+18/10/2026 11:08:24 Long.CN242416M@sis.hust.edu.vn PM_26I_09 PM_26I_14 20242416M Chu Ngọc Long 14 Câu 2: Risk and Change Người nghe nhóm bạn trình bày
+Nhóm đang chủ yếu chọn 
+cách giảm thiểu rủi ro, 
+vậy đã cân nhắc các 
+hướng khác như chuyển 
+giao hoặc chấp nhận rủi 
+ro chưa?
+Mỗi rủi ro đều có người 
+phụ trách cụ thể để kết 
+thúc xử lý
+Cách ứng phó hiện tại 
+chưa đa dạng Thắng 354 Done
+18/10/2026 11:08:24 hoang.km242337m@sis.hust.edu.vn PM_26I_09 PM_26I_13 20242337M Khuất Minh Hoàng 13 Câu 1: Planning Người nghe nhóm bạn trình bày
+https://docs.google.
+com/document/d/1Pdpll5
+M1rSm2BQqh_uJYyYoG
+9qI780JZ/edit?
+usp=drive_link&ouid=102
+878824746487579886&rt
+pof=true&sd=true
+Trong tài liệu này, các 
+yêu cầu thay đổi được 
+phân thành mấy cấp độ 
+và thẩm quyền phê duyệt 
+đối với từng cấp độ được 
+quy định như thế nào? 
+Trường hợp thay đổi 
+khẩn cấp thì ai có quyền 
+quyết định và thời hạn lập 
+hồ sơ hồi tố báo cáo CCB 
+là bao lâu?
+Thắng 355 Done
+18/10/2026 11:08:26 Hoang.ND252616M@sis.hust.edu.vn PM_26I_09 PM_26I_08 20252616M Nguyễn Đồng Hoàng 08 Câu 2: Risk and Change Người nghe nhóm bạn trình bày
+https://docs.google.
+com/document/d/1V_Ev2
+SZ4JmRwHjd9R_ZlmVGa
+PdRdPZqVTZBmJ5Xp8V
+Y/edit?tab=t.0
+Sửa lại phần quản lý rủi 
+ro N/A N/A Sai về phương pháp quản lý rủi ro. Thắng 356 Done
+18/10/2026 11:08:41 Thang.ND261108M@sis.hust.edu.vn PM_26I_09 PM_26I_08 20261108M Nguyễn Đức Thắng 08 Câu 2: Risk and Change Người nghe nhóm bạn trình bày
+https://docs.google.
+com/document/d/1UHLzv
+DHkJYcn85E_06tyPUbm
+kcxNjHiof2wa9vKTXF0/ed
+it?usp=sharing
+Chỉnh sửa phương pháp 
+quản trị rủi ro, cần chia sẻ 
+với khách hàng
+Thắng 357 Done
+18/10/2026 11:08:42 486213azwq@gmail.com PM_26I_09 PM_26I_05 20261122M Trần Tất Hoàng 05 Câu 1: Planning Người nghe nhóm bạn trình bày khi xuất hiện thay đổi cần làm gì để  giải quyết ? Chỉnh sửa kế hoạch quản lý rủi ro Đi đúng hướng chia sprint thành các mooc  cụ thể
+Chưa rõ ràng trong quá 
+trình quản lý ,chi phí cụ 
+thể chưa khớp nhau , chi 
+phí chưa hợp lý 
+Thắng 358 Done
+--- PAGE 2 ---
+Timestamp Email Address Nhận xét cho nhóm Định danh Nhóm cung cấp nhận xét
+Phân loại nội dung câu 
+hỏi / nhận xét / đề xuất 
+chỉnh sửa.
+Vai trò Link đến file nhận xét Nội dung câu hỏi Nội dung đề xuất chỉnh sửa Nội dung nhận xét - Ưu điểm Nội dung nhận xét - Nhược điểm Phân công Dòng trong file gốc Status
+18/10/2026 11:08:48 transon.dhbk@gmail.com PM_26I_09 PM_26I_04 20252606M Trần Hoàng Sơn 04 Câu 1: Planning Người nghe nhóm bạn trình bày
+Yêu cầu hệ thống hoạt 
+động 24/7/365 sẽ được 
+đo lường và nghiệm thu 
+như thế nào khi hồ sơ 
+chưa quy định tỷ lệ khả 
+dụng, thời gian ngừng 
+cho phép và nguồn số 
+liệu giám sát?
+Bổ sung tỷ lệ khả dụng 
+được phê duyệt, công 
+thức tính, chu kỳ đo, 
+nguồn giám sát, trường 
+hợp bảo trì được loại trừ 
+và cách xử lý khi vi phạm 
+SLA.
+HSMT đã đề cập yêu cầu 
+vận hành liên tục và chỉ 
+tiêu hiệu năng P95 không 
+quá 2 giây.
+Tiêu chí về tính sẵn sàng 
+chưa đo lường được, 
+khiến các nhà thầu có thể 
+hiểu và chào các mức 
+dịch vụ khác nhau.
+Thắng 359 Done
+18/10/2026 11:08:49 Quy.NM261270M@sis.hust.edu.vn PM_26I_09 PM_26I_07 20261270M Nguyễn Minh Quý 07 Toàn bộ (vai người được phân công) Được phân công nhận xét
+slide đang thiếu, chưa trả 
+lời được khi cô hỏi về 
+quản lý thay đổi khi thêm 
+yêu cầu, chưa quản lý 
+được AI nên sinh ra nhiều 
+phần thừa, kết quả chưa 
+rà soát
+Thắng 360 Done
+18/10/2026 11:09:00 thanhthuy16122001@gmail.com PM_26I_09 PM_26I_05 20261243M Bùi Thanh Thuỳ 05 Câu 1: Planning Được phân công nhận xét chi phí quản lý rủi ro lớn chi phí quản lý rủi ro lớn chia sprint; nhân sự và năng lực Thiếu quản lý rủi ro trong slide Thắng 361 Done
+18/10/2026 11:09:11 dat.tb98it@gmail.com PM_26I_09 PM_26I_02 20252129M Trần Bá Đạt 02 Câu 1: Planning Người nghe nhóm bạn trình bày
+WBS không có cột phụ 
+thuộc, thời lượng hay 
+nguồn lực, và có nhiều lỗi 
+dữ liệu
+Vậy nhóm đã rà soát bản 
+WBS này chưa, và ngày 
+nào là đường găng thật 
+sự của dự án?
+Thêm cột phụ thuộc (loại 
+quan hệ), số ngày, nguồn 
+lực và nỗ lực (người-
+ngày) cho từng công việc. 
+Từ đó tính đường găng 
+và dự phòng tiến độ.
+Cấu trúc phân rã nhiều 
+cấp rõ ràng: quản lý dự 
+án, phân tích, thiết kế, 
+xây dựng, kiểm thử, triển 
+khai.
+Các hoạt động chính đều 
+có sản phẩm bàn giao và 
+người phụ trách theo vai 
+trò.
+Phần phát triển phân rã 
+đến mức 4 việc nhỏ cho 
+mỗi chức năng (UI, API, 
+tích hợp, kiểm thử đơn 
+vị), dễ theo dõi.
+Giám sát/kiểm soát chỉ có 
+4 ngày cuối trong khi lẽ ra 
+chạy xuyên suốt, nên 
+thực tế chưa có kiểm soát 
+tiến độ trong 18 tuần.
+Thắng 362 Done
+18/10/2026 11:09:14 anh.pt252125@sis.hust.edu.vn PM_26I_09 PM_26I_07 20252125M Phạm Tiến Anh 07 Câu 1: Planning Được phân công nhận xét
+https://docs.google.
+com/spreadsheets/d/1g-
+U4fh4nGHRMoCocOUxIr
+MCsh4uOZnRM/edit?
+gid=925592297#gid=925
+592297
+WBS mới chỉ liệt kê sơ 
+qua kế hoach làm việc, 
+cần bổ sung thêm thông 
+tin
+Đăng 364 Done
+18/10/2026 11:09:14 tien.nq261111M@sis.hust.edu.vn PM_26I_09 PM_26I_01 20261111M Nguyễn Quang Tiến 01 Câu 1: Planning Người nghe nhóm bạn trình bày Cần điều chỉnh lại chi phí rủi ro cho thích hợp Chi phí phòng trừ rủi ro quá cao so với budget dự án Đăng 365 Done
+18/10/2026 11:09:15 TUAN.BA261255M@sis.hust.edu.vn PM_26I_09 PM_26I_01 20261255M Bùi Anh Tuấn 01 Câu 1: Planning Người nghe nhóm bạn trình bày Sửa lại phần phân bổ chi phí quản lý rủi ro Quản lý rủi ro phân bổ chi phí chưa hợp lý (quá cao so với kế hoạch) Đăng 366 Done
+18/10/2026 11:09:24 hoangdeltavn03@gmail.com PM_26I_09 PM_26I_04 20252603M Nguyễn Đức Hoàng 04 Câu 2: Risk and Change Người nghe nhóm bạn trình bày
+Trong trường hợp PM và 
+Product Owner không 
+thống nhất về một quyết 
+định liên quan đến ngân 
+sách, quyết định cuối 
+cùng sẽ thuộc thẩm 
+quyền của ai?
+Bổ sung quy trình báo 
+cáo và chuyển cấp khi 
+PM và Product Owner 
+không đạt được đồng 
+thuận; đồng thời xác định 
+rõ người có thẩm quyền 
+ra quyết định cuối cùng, 
+đặc biệt trong tình huống 
+khẩn cấp.
+Tài liệu chưa quy định cụ 
+thể cách giải quyết và cấp 
+có thẩm quyền quyết định 
+khi PM và Product Owner 
+có ý kiến khác nhau.
+Đăng 367 Done
+18/10/2026 11:09:25 Han.TD261250M@sis.hust.edu.vn PM_26I_09 PM_26I_01 20261250M Trần Đức Hân 01 Câu 2: Risk and Change Người nghe nhóm bạn trình bày chi phí phòng trừ rủi ro đang quá cao, cần sửa lại cho hợp lí Đăng 368 Done
+18/10/2026 11:09:31 hung14052001xyz@gmail.com PM_26I_09 PM_26I_13 20261271M Đặng Văn Hùng 13 Câu 1: Planning Người nghe nhóm bạn trình bày
+https://docs.google.
+com/document/d/1OXFz6
+2KbF6UT5_N2L1n3OY-
+ukt7yMqac/edit
+Thời hạn hiệu lực của 
+bảo lãnh dự thầu có đáp 
+ứng thời hạn hiệu lực của 
+E-HSDT theo quy định 
+không?
+Thống nhất thời hạn hiệu 
+lực bảo lãnh dự thầu giữa 
+các tài liệu. Hiện đơn dự 
+thầu ghi 180 ngày kể từ 
+15/06/2026, nhưng thư 
+bảo lãnh chỉ ghi 60 ngày 
+kể từ 02/06/2026, dẫn 
+đến nguy cơ không đáp 
+ứng yêu cầu về hiệu lực 
+bảo đảm dự thầu.
+Đăng 369 Done
+18/10/2026 11:09:36 thuan.pt261242m@sis.hust.edu.vn PM_26I_09 PM_26I_12 20261242M Phan Trọng Thuận 12 Câu 1: Planning Người nghe nhóm bạn trình bày Có sản phẩm bàn giao rõ ràng cho mỗi task công việc WBS chưa bóc tách theo Sprint, chưa có timeline rõ ràng Đăng 370 Done
+18/10/2026 11:09:45 thanhlamchu01@gmail.com PM_26I_09 PM_26I_13 20242427M Chu Thanh Lâm 13 Câu 1: Planning Người nghe nhóm bạn trình bày
+https://docs.google.
+com/document/d/1OXFz6
+2KbF6UT5_N2L1n3OY-
+ukt7yMqac/edit
+Hồ sơ đang xác định thời 
+gian thực hiện từ 
+22/06/2026 đến 
+22/12/2026, go-live ngày 
+25/11/2026. Cần thống 
+nhất các mốc này giữa kế 
+hoạch triển khai, bảng 
+giá, WBS và bảng tiến độ 
+chi tiết; đồng thời thể hiện 
+rõ thời điểm nghiệm thu, 
+kết thúc hypercare và bắt 
+đầu bảo hành.
+Đăng 371 Done
+18/10/2026 11:09:52 truongquocviet2001@gmail.com PM_26I_09 PM_26I_13 20242426M Trương Quốc Việt 13 Câu 1: Planning Người nghe nhóm bạn trình bày
+https://docs.google.
+com/document/d/1TLwY9
+oWbeU4EfPMdM6YOyOZ
+7Zupho_R6/edit
+Phạm vi có thanh toán 
+online và đối soát, nhưng 
+không có quản trị nội bộ. 
+Vậy ABC Wear xử lý đơn 
+hàng, khuyến mãi và 
+hoàn tiền bằng công cụ 
+nào?
+Sửa lại tiêu chí B4 cho 
+đúng nội dung tích hợp.
+Thêm tiêu chí điểm cho 
+CSDL và kiểm thử/bảo 
+mật.
+Bổ sung SLA hỗ trợ và 
+kéo dài thời gian hỗ trợ 
+sau go-live.
+Đăng 372 Done
+18/10/2026 11:10:07 huy.lq261106m@sis.hust.edu.vn PM_26I_09 PM_26I_08 20261106M Lê Quang Huy 08 Câu 2: Risk and Change Người nghe nhóm bạn trình bày
+Có thể head up các risk 
+có thể có khả năng gặp 
+trong quá trình tích hợp 
+và nên estimate từ trước 
+để có thể ứng phó tốt hơn
+Đăng 374 Done
+18/10/2026 11:10:09 hoang.vv251064@sis.hust.edu.vn PM_26I_09 PM_26I_11 20251064M Võ Việt Hoàng 11 Câu 1: Planning Người nghe nhóm bạn trình bày
+Nhóm sử dụng những 
+tiêu chí nào để đánh giá 
+dự án đã đạt được mục 
+tiêu đề ra?
+Nhóm nên bổ sung các 
+chỉ số cụ thể để đo lường 
+hiệu quả và mức độ 
+thành công của dự án.
+Nhóm trình bày mục tiêu 
+và phạm vi dự án khá rõ 
+ràng, nội dung có tính 
+thực tiễn.
+Các tiêu chí đánh giá kết 
+quả dự án chưa được 
+lượng hóa cụ thể, gây 
+khó khăn trong việc xác 
+định mức độ hoàn thành 
+mục tiêu.
+Thuỷ 375 Done
+--- PAGE 3 ---
+Timestamp Email Address Nhận xét cho nhóm Định danh Nhóm cung cấp nhận xét
+Phân loại nội dung câu 
+hỏi / nhận xét / đề xuất 
+chỉnh sửa.
+Vai trò Link đến file nhận xét Nội dung câu hỏi Nội dung đề xuất chỉnh sửa Nội dung nhận xét - Ưu điểm Nội dung nhận xét - Nhược điểm Phân công Dòng trong file gốc Status
+18/10/2026 11:10:19 thanh.pt242422m@sis.hust.edu.vn PM_26I_09 PM_26I_07 20242422M Phạm Tiến Thành 07 Câu 2: Risk and Change Người nghe nhóm bạn trình bày
+"Rủi ro lệch tồn kho (R-
+007) và tích hợp Main 
+System (R-001)" đã được 
+nhóm dự báo từ đầu 
+trong Risk Register, vậy 
+tại sao kế hoạch phòng 
+ngừa ban đầu không 
+ngăn chặn được việc vỡ 
+tiến độ phải lùi Go-live 1 
+tháng qua CR-03? Căn 
+cứ pháp lý nào để Chủ 
+đầu tư chấp thuận trả 
+thêm 45 triệu VNĐ cho 
+một hợp đồng trọn gói?
+Bổ sung vào Kế hoạch 
+Quản lý Rủi ro giải pháp 
+kỹ thuật sớm (triển khai 
+Mock API và tích hợp 
+kiểm thử kết nối ngay từ 
+tháng thứ 2 thay vì chờ 
+đến SIT tháng thứ 5); làm 
+rõ điều khoản "Chi phí 
+phát sinh do thay đổi yêu 
+cầu từ phía Chủ đầu tư" 
+trong hợp đồng để hợp 
+thức hóa phụ lục 45 triệu 
+VNĐ.
+Thuỷ 376 Done
+18/10/2026 11:10:24 hoang.dv.w2k@gmail.com PM_26I_09 PM_26I_06 20242109M Đỗ Việt Hoàng 06 Câu 2: Risk and Change Người nghe nhóm bạn trình bày
+Tại sao nhóm lại thực 
+hiện cung cấp chi phí cho 
+việc xử lý rủi ro cho tất cả 
+các risk registrty  luôn mà 
+không lựa chọn các cách 
+xử lý khác không tốn chi 
+phí như né tránh, giảm 
+thiểu hoặc chuyển giao ?
+Risk management plan 
+cần sửa để bỏ phần cả 
+dự án ra, chi phí để xử lý 
+rủi ro, đối ứng rủi ro đang 
+chưa phù hợp 
+97tr cho SRS nhưng chi 
+phí rủi ro lại lên đến 4x % 
+với mới mức dưới 10% 
+tiêu chuẩn (9,7tr). Cần 
+chỉnh lại Risk 
+management plan để lựa 
+chọn đúng cách và chi 
+phí xử lý rủi ro.
+Nhóm có nội dung đầy 
+đủ.
+Risk management plan 
+đang tính "rủi ro cả dự 
+án" riêng thành một mục 
+và gộp so với các phần 
+khác.
+Tất cả các risk đều đang 
+tốn chi phí và ở mức 
+acceptance.
+Thuỷ 377 Done
+18/10/2026 11:10:32 karalashannon@gmail.com PM_26I_09 PM_26I_12 20261252M Nguyễn Văn Việt 12 Câu 1: Planning Người nghe nhóm bạn trình bày
+https://docs.google.
+com/spreadsheets/d/1g-
+U4fh4nGHRMoCocOUxIr
+MCsh4uOZnRM/edit?
+gid=925592297#gid=925
+592297
+WBS đang không phân 
+chia theo sprint mà theo 
+module chức năng
+Phân chia WBS theo 
+sprint
+Có phần kiểm thử cho 
+từng module
+Thiếu thời gian cho từng 
+task Thuỷ 378 Done
+18/10/2026 11:10:38 Hung.LT251183M@sis.hust.edu.vn PM_26I_09 PM_26I_07 20251183M Lê Thành Hưng 07 Câu 1: Planning Người nghe nhóm bạn trình bày
+Hồ sơ dự thầu đứng tên 
+"Nhóm 09 - 20261" 
+(không phải tư cách pháp 
+nhân hợp lệ)
+Thuỷ 379 Done
+18/10/2026 11:10:38 dominhhiep21102003glhd@gmail.com PM_26I_09 PM_26I_14 20261116M Đỗ Minh Hiệp 14 Câu 1: Planning Người nghe nhóm bạn trình bày Quản lí rủi ro Kinh phí rủi ro đang quá lớn và chưa đề cập nó trong WBS Thuỷ 380 Done
+18/10/2026 11:10:39 tav04092004@gmail.com PM_26I_09 PM_26I_05 20252735M Trần Anh Vũ 05 Câu 2: Risk and Change Người nghe nhóm bạn trình bày
+https://docs.google.
+com/spreadsheets/d/1Za
+m1SrWigPS1t3EKTHaTL
+NzcNSvHdG-k/edit?
+gid=18532240#gid=1853
+2240
+Làm thế nào nhóm dự án 
+có thể ước tính chi phí dự 
+phòng một cách chính 
+xác khi các số liệu hiện 
+tại chỉ mang tính chất 
+minh họa và chưa có báo 
+giá thực tế cho hạ tầng 
+hay kiểm thử?
+Bổ sung các tài liệu như 
+báo giá của nhà cung cấp 
+hạ tầng cloud hoặc bảng 
+khảo sát chi phí kiểm thử 
+bảo mật vào phần phụ 
+lục, nhằm làm căn cứ giải 
+trình rõ hơn cho phần dự 
+toán kinh phí phòng ngừa 
+rủi ro.
+Việc áp dụng quy trình 6 
+bước rõ ràng, phân định 
+rành mạch trách nhiệm 
+của từng cá nhân (P1 đến 
+P5) đối với các rủi ro cụ 
+thể.
+Chưa phản ánh được 
+trạng thái thực tế của dự 
+án, khi mọi rủi ro vẫn 
+đang ở bước "Đề xuất – 
+chờ review" và chưa có 
+hành động ứng phó nào 
+được chính thức xác 
+nhận.
+Thuỷ 381 Done
+18/10/2026 11:10:59 quang.vh1502@gmail.com PM_26I_09 PM_26I_11 20261114M Vũ Hồng Quang 11 Câu 3: Execution and Closing Người nghe nhóm bạn trình bày
+Mục tiêu hài lòng là từ 
+85% nhưng kết quả chỉ 
+đạt 81,5%. Vì sao dự án 
+vẫn được đánh giá mức 
+Tốt và nghiệm thu?
+Bổ sung kế hoạch khắc 
+phục các nguyên nhân 
+khiến mức hài lòng chưa 
+đạt mục tiêu.
+Báo cáo đánh giá có số 
+liệu thực tế và phân tích 
+theo từng nhóm liên 
+quan.
+Chưa làm rõ tiêu chí 
+nghiệm thu khi KPI hài 
+lòng không đạt.
+Thuỷ 383 Done
+18/10/2026 11:11:26 vuducminh10102@gmail.com PM_26I_09 PM_26I_02 20252252M Vũ Đức Minh 02 Câu 1: Planning Người nghe nhóm bạn trình bày
+Nhóm đã có phương án 
+điều chỉnh tiến độ khi một 
+công việc nằm trên 
+đường găng bị chậm 
+hoàn thành chưa?
+Bổ sung phương án xử lý 
+các công việc trên đường 
+găng và thời gian dự 
+phòng cho các mốc quan 
+trọng.
+Nhóm đã xây dựng WBS 
+và kế hoạch tiến độ 
+tương đối chi tiết.
+Chưa thể hiện rõ phương 
+án điều chỉnh khi các 
+công việc quan trọng bị 
+chậm, có thể ảnh hưởng 
+đến tiến độ toàn dự án.
+Thuỷ 384 Done
+18/10/2026 11:11:41 ngoctrongtran21@gmail.com PM_26I_09 PM_26I_05 20261274M Trần Ngọc Trọng 05 Câu 1: Planning Người nghe nhóm bạn trình bày Quản lý rủi ro trong dự án sẽ được thực hiện như thế nào? Quản lý rủi ro cần nêu chi phí cụ thể và tương thích với yêu cầu trong dự án Chia sprint rõ rảng, chi tiết Thiếu đề cập quản lý rủi ro trong slide và chưa giải thích được hợp lý Thuỷ 385 Done
+18/10/2026 11:12:08 baoba052003@gmail.com PM_26I_09 PM_26I_03 20261110M Nguyễn Hoàng Quốc 03 Câu 1: Planning Người nghe nhóm bạn trình bày Vai trò nhân sự, công việc lương được chia rõ ràng theo sprint, klcv
+Chưa có phần kế hoạch 
+thay đổi, và các ứng phó
+Quản lý rủi ro- cần định 
+lượng rõ là chịu rủi ro 
+được bao nhiêu %
+https://docs.google.
+com/spreadsheets/d/1yw
+Y8dyVEYxE59EHt1tkEku
+QI8jO2yb1I/edit?
+gid=666080682#gid=666
+080682
+float ngày công quá dài k 
+hợp lý ở
+Quản lý dự án (Task 1):
+Kết thúc kế hoạch: 
+22/12/2026 nhưng Kết 
+thúc thực tế: 22/01/2027 
+(bị chậm mất đúng 1 
+tháng).
+(Task 2.2.1, 2.2.2, 2.2.3, 
+2.2.5) hoặc thiết kế hệ 
+thống (Task 3) đang bị 
+trống cột Phụ thuộc
+Phương 386 done
+18/10/2026 11:12:15 toan.nd252131M@sis.hust.edu.vn PM_26I_09 PM_26I_02 20252131M Ninh Đức Toàn 02 Câu 2: Risk and Change Người nghe nhóm bạn trình bày
+Khi chi phí xử lý rủi ro 
+vượt quá ngân sách dự 
+phòng, nhóm sẽ xử lý và 
+xin phê duyệt bổ sung 
+như thế nào?
+Bổ sung ngưỡng sử dụng 
+quỹ dự phòng, quy trình 
+phê duyệt chi phí phát 
+sinh và cập nhật ngân 
+sách.
+Nhóm đã xây dựng danh 
+sách rủi ro và có dự trù 
+kinh phí ứng phó.
+Chưa làm rõ cơ chế kiểm 
+soát quỹ dự phòng và 
+thẩm quyền phê duyệt khi 
+chi phí xử lý rủi ro vượt 
+kế hoạch.
+Phương 387 done
+18/10/2026 11:12:24 phamkhanhhung1683@gmail.com PM_26I_09 PM_26I_14 20252249M Phạm Khánh Hưng 14 Câu 2: Risk and Change Người nghe nhóm bạn trình bày Cải thiện phần quản lý rủi ro Phương 388 done
+--- PAGE 4 ---
+Timestamp Email Address Nhận xét cho nhóm Định danh Nhóm cung cấp nhận xét
+Phân loại nội dung câu 
+hỏi / nhận xét / đề xuất 
+chỉnh sửa.
+Vai trò Link đến file nhận xét Nội dung câu hỏi Nội dung đề xuất chỉnh sửa Nội dung nhận xét - Ưu điểm Nội dung nhận xét - Nhược điểm Phân công Dòng trong file gốc Status
+18/10/2026 11:13:17 Khanh.ND261120M@sis.hust.edu.vn PM_26I_09 PM_26I_08 20261120M Nguyễn Duy Khánh 08 Câu 2: Risk and Change Người nghe nhóm bạn trình bày
+Trong Risk Management 
+Plan, mọi rủi ro đều do 
+phía nhà thầu làm chủ 
+(owner) và tự xử lý. Tuy 
+vậy, nhiều rủi ro lớn của 
+dự án ABC Wear lại phát 
+sinh từ phía khách hàng, 
+ví dụ:
+-chậm cấp tài khoản 
+sandbox VNPay/MoMo 
+hoặc API của đơn vị vận 
+chuyển;
+-chậm cung cấp dữ liệu 
+sản phẩm và tồn kho;
+-người dùng nghiệp vụ 
+không bố trí đủ thời gian 
+cho UAT;
+-thay đổi yêu cầu giữa 
+sprint.
+Nhóm có chia sẻ những 
+rủi ro này với ABC Wear 
+không? Nếu có thì thể 
+hiện ở đâu: trong hợp 
+đồng, trong ma trận RACI 
+hay trong sổ đăng ký rủi 
+ro (Risk Register)? Nếu 
+không, khi khách chậm 2 
+tuần thì nhà thầu có chịu 
+phạt tiến độ không?
+Risk Register: thêm cột 
+“Bên chịu rủi ro” (Nhà 
+thầu / ABC Wear / 
+Chung). Với rủi ro từ phía 
+khách, đặt owner là người 
+của ABC Wear, ví dụ 
+trưởng phòng CNTT hoặc 
+Product Owner, và ghi rõ 
+dấu hiệu cảnh báo, ví dụ 
+quá 5 ngày làm việc chưa 
+phản hồi.
+Hồ sơ dự thầu / dự thảo 
+hợp đồng: bổ sung điều 
+khoản về nghĩa vụ của 
+bên A. Khi bên A chậm 
+cung cấp đầu vào thì mốc 
+tiến độ được lùi tương 
+ứng. Thay đổi phạm vi đi 
+qua yêu cầu thay đổi 
+(CR) và có tính phí.
+Risk Register khá đầy đủ, 
+có chấm điểm xác suất × 
+tác động và xếp mức ưu 
+tiên.
+Các rủi ro kỹ thuật được 
+nhận diện cụ thể: tải đột 
+biến khi có khuyến mãi, 
+bảo mật thanh toán, 
+tương thích iOS/Android.
+Ccó kế hoạch ứng phó 
+cho từng rủi ro.
+Quản trị rủi ro mới nhìn 
+một phía. Nhà thầu đang 
+ôm toàn bộ rủi ro, kể cả 
+rủi ro nằm ngoài khả 
+năng kiểm soát của mình. 
+Với hợp đồng trọn gói, 
+điều này đẩy nhà thầu 
+vào thế bị phạt hoặc lỗ.
+Hồ sơ dự thầu chưa có 
+điều khoản phân bổ rủi ro 
+và nghĩa vụ của khách 
+hàng.
+Risk plan và Change 
+Management chưa liên 
+kết với nhau. Thay đổi 
+yêu cầu vừa là rủi ro, vừa 
+là CR, nhưng nhóm xử lý 
+tách rời hai nơi.
+chưa có cơ chế cùng 
+khách hàng theo dõi rủi ro 
+định kỳ.
+Phương 389 Done
+18/10/2026 11:13:41 ptanh01230@gmail.com PM_26I_09 PM_26I_02 20252253M Phạm Tuấn Anh 02 Câu 2: Risk and Change Người nghe nhóm bạn trình bày
+Nhóm có cơ chế cập nhật 
+mức độ rủi ro khi điều 
+kiện thực tế của dự án 
+thay đổi không?
+Bổ sung quy trình đánh 
+giá lại xác suất, mức độ 
+tác động và cập nhật Risk 
+Register định kỳ hoặc khi 
+có thay đổi lớn.
+Nhóm đã nhận diện và 
+phân loại được các rủi ro 
+chính trong dự án.
+Phương 390 done
+18/10/2026 11:17:09 huynt2209@gmail.com PM_26I_09 PM_26I_05 20252618M Nguyễn Trường Huy 05 Câu 1: Planning Người nghe nhóm bạn trình bày
+Quỹ rủi ro 186 triệu 
+“không cộng vào giá 
+thầu”. Vậy khi rủi ro xảy 
+ra, tiền lấy từ đâu? 186 
+triệu bằng 20,7% giá hợp 
+đồng và bằng 63% quỹ 
+nhân công 297 triệu. Nếu 
+dùng đến thì nhà thầu lỗ
+Phương 392 done
+18/10/2026 11:18:47 Hoang.DV261254M@sis.hust.edu.vn PM_26I_09 PM_26I_03 20261254M Đinh Việt Hoàng 03 Câu 3: Execution and Closing Người nghe nhóm bạn trình bày Khi kết thúc dự án, bảng phân chia lương chưa có phân đủ ngày công?
+Khi kết thúc dự án, bảng 
+phân chia lương chưa có 
+phân đủ ngày công, đơn 
+vị lương chưa có, lương 
+trả hàng tháng như nào
+Phương 393 done
+18/10/2026 11:22:13 khai.ct261109m@sis.hust.edu.vn PM_26I_09 PM_26I_01 20261109M Cao Tiến Khải 01 Câu 3: Execution and Closing Người nghe nhóm bạn trình bày
+https://docs.google.
+com/document/d/1w0Nm
+7J8eJLLb5Hhb05oeZ9Cg
+sAw2Ec7I/edit
+Tại sao tổng 10 bài học 
+kinh nghiệm mà phần liệt 
+kê lại chỉ có 7
+Bổ sung các bài học kinh 
+nghiệm hoặc giảm tổng 
+số bài học
+Chưa duyệt lại các tài liệu 
+sau khi làm xong Phương 404 done
+18/10/2026 11:40:29 thang.dd242459@sis.hust.edu.vn PM_26I_09 PM_26I_09 20242459M Đinh Đức Thắng 09 Câu 2: Risk and Change Người nghe nhóm bạn trình bày
+https://docs.google.
+com/document/d/1dl_Kd5
+SQ9M9HhbSCOlmyPLOl
+HCTDXwby/edit
+Chỉnh sửa sang luồng 
+phát triển Agile Scrum
+Nhóm vẫn đang sử dụng 
+mô hình phát triển thác 
+nước - Waterfall
+Phương 447 câu này của thành viên trong nhóm góp ý nên ko cập nhật tiếp thu tại part 3
+18/10/2026 12:30:46 Tu.HD261119M@sis.hust.edu.vn PM_26I_09 PM_26I_01 20261119M Hoàng Đức Tư 01 Câu 3: Execution and Closing Người nghe nhóm bạn trình bày Cần kiểm tra lại toàn bộ hồ sơ cho khớp nội dung với nhau Phương 621 done
